@@ -1,4 +1,4 @@
-#hcp_wm_cpm.py
+hcp_wm_cpm.py
 
 
 import os
