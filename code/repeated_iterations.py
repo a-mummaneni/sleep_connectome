@@ -1,4 +1,5 @@
-hist_generation.py
+repeated_iterations.py
+
 task = 'PSQI_AmtSleep'
 
 def r_stats(behav_obs_pred, tail="glm"):
