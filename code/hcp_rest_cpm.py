@@ -1,6 +1,4 @@
-#rest_cpm.py
-
-
+hcp_rest_cpm.py
 
 import os
 import glob
